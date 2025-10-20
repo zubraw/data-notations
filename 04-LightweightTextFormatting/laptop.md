@@ -20,3 +20,17 @@ In general, laptop components are not intended to be replaceable or upgradable b
 
 1. [Central processing unit (CPU)](https://en.wikipedia.org/wiki/Central_processing_unit)
 1. [Graphics processing unit (GPU)](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+
+## TOP THREE LAPTOP MANUFACTERS
+
+* Apple
+
+Known for its premium MacBook lineup (MacBook Air and MacBook Pro), Apple laptops are highly regarded for their build quality, macOS ecosystem, and long battery life.
+
+* Dell
+
+Dell offers a wide range of laptops, from budget-friendly options to high-end models like the XPS series. The company is especially popular in the business and enterprise sector.
+
+* HP (Hewlett-Packard)
+
+HP is another top manufacturer known for its diverse laptop lineup, including the Spectre, Envy, and Elite series. They cater to both consumer and business markets, with an emphasis on sleek designs and performance.
